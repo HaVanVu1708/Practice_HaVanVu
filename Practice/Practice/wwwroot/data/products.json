@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "img": "https://giayxshop.vn/wp-content/uploads/2020/03/MG_2166-300x300.jpg",
+        "name": "GIAYNIKE",
+        "price": 90.00
+    },
+    {
+        "id": 2,
+        "img": "https://giayxshop.vn/wp-content/uploads/2019/05/MG_6919-300x300.jpg",
+        "name": "GIAYADIDAS",
+        "price": 90.00
+    },
+    {
+        "id": 3,
+        "img": "https://giayxshop.vn/wp-content/uploads/2020/11/z2139139865652_c83d23a23dc17674563201ad0bd785c1-300x300.jpg",
+        "name": "GIAYMCQ",
+        "price": 90.00
+    },
+    {
+        "id": 4,
+        "img": "https://giayxshop.vn/wp-content/uploads/2019/03/MG_1423-compressed-300x300.jpg",
+        "name": "GIAYDAV",
+        "price": 90.00
+    },
+    {
+        "id": 5,
+        "img": "https://giayxshop.vn/wp-content/uploads/2020/09/z2083962626749_3c2ee607d4f2a2b76f31597baa6475fc-300x300.jpg",
+        "name": "GIAYMTD SF",
+        "price": 90.00
+    },
+    {
+        "id": 6,
+        "img": "https://giayxshop.vn/wp-content/uploads/2020/03/MG_5100-300x300.jpg",
+        "name": "GIAYNIKE Air",
+        "price": 90.00
+    }
+]
